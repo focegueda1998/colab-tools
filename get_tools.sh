@@ -1,6 +1,7 @@
 apt-get update -y; \
 apt-get upgrade -y; \
 apt-get install -y zstd pciutils lshw; \
+curl -o /content/requirements.txt; \
 pip install --upgrade pip; \
 pip install uv; \
 uv pip install -r /content/requirements.txt; \
