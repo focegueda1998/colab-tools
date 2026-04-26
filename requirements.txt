@@ -1,6 +1,7 @@
 accelerate
 pydantic
 bitsandbytes
+ipython
 langchain
 langchain-core
 langchain-community
