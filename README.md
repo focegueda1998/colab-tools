@@ -7,7 +7,7 @@ You can 'curl' the contents of the get_tools.sh file to run using:
 curl -fsSL https://github.com/focegueda1998/colab-tools/blob/main/get_tools.sh | sh
 ~~~
 
-By extension, any ubuntu-based instance should work with the script granted there is no 'sudo' requirement (i.e. ran in a simple docker container).
+By extension, any ubuntu-based instance should work with the script (i.e. ran in a user's desktop with 'sudo' escalation or simple docker container).
 
 
 The script will update and install necessary packages into the ubuntu-based environment, including those found in the 'requirements.txt' file and as well as ollama.
