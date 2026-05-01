@@ -1,4 +1,4 @@
-**This respostitory is intended to be used in a Google Colab environment.**
+**THIS REPOSITORY IS INTENDED FOR GOOGLE COLAB USE.**
 
 
 You can 'curl' the contents of the get_tools.sh file to run using:
@@ -15,6 +15,8 @@ The script will update and install necessary packages into the ubuntu-based envi
 
 You should only need to run the script once per instance. Please run the script within a safe enviroment (i.e. Colab, Docker Container, Virtual Machine, etc); packages are prone to breaking and we are not responsible for any issues this may cause to a host environment.
 
+
 More features may be added in the future so please refer back to this repository if something breaks.
+
 
 Thanks!
