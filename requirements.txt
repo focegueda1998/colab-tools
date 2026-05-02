@@ -24,3 +24,5 @@ notebook
 colab-xterm
 langchain-openai
 vllm
+fastmcp
+langchain-mcp-adapters
